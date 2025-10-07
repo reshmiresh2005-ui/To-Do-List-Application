@@ -28,3 +28,12 @@ Output Preview
 
 [ View Output Screenshots](https://raw.githubusercontent.com/reshmiresh2005-ui/To-Do-List-Application/main/output%20screenshots.docx)
 
+Screenshots of the To-Do List application (stored in the /screenshots folder):
+
+Initial empty list
+
+Adding new tasks
+
+Marking tasks as complete
+
+Deleting tasks
