@@ -37,3 +37,14 @@ Adding new tasks
 Marking tasks as complete
 
 Deleting tasks
+
+GitHub Setup
+
+Clone the repository:
+
+git clone https://github.com/reshmiresh2005-ui/To-Do-List-Application
+
+
+Open index.html in your browser.
+
+All required files (CSS, JS, Images) are included in respective folders.
