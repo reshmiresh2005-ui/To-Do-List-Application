@@ -23,4 +23,4 @@ Frontend: HTML, CSS, JavaScript
 Version Control: Git & GitHub
 
 Output Preview
-output screenshots.docx
+screenshots.docx
